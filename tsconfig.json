@@ -3,6 +3,7 @@
   "compilerOptions": {
     "module": "esnext",
     "target": "esnext",
+    "ignoreDeprecations": "5.0",
     "moduleResolution": "node",
     "jsx": "preserve",
     "baseUrl": "./",
