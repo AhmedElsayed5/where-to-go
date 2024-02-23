@@ -1,9 +1,5 @@
 # New Project Where-to-go
 
-> ✨ Bootstrapped with Create Snowpack App (CSA).
-
-## Available Scripts
-
 ### npm start
 
 Runs the app in the development mode.
