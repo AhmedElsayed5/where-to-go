@@ -1,4 +1,4 @@
-# New Project Where-to-go
+# Where-to-go
 
 ### npm start
 
